@@ -4,7 +4,7 @@ My hands-on cybersecurity notes, network analysis, and TryHackMe write-ups.
 ## Navigation:
 
 > [!NOTE]
-> ### Networking & Protocols
+> ### Networking
 > * [TCP/IP, ISO/OSI, UDP/TCP](networking/tcp-ip-models.md) — *Protocol layers, subnets, encapsulation and so on.*
 
 > [!TIP]
