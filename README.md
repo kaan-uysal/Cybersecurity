@@ -9,8 +9,8 @@ My hands-on cybersecurity notes, network analysis, and TryHackMe write-ups.
 
 > [!TIP]
 > ### Linux & Windows CLI
-> * [linux-cli](linux-cli.md) — *Basic commands and system navigation for Linux*
-> * [windows-cli](windows-cli.md) - *Basic commands and system navigation for Windows*
+> * [Linux](linux-cli.md) — *Basic commands and system navigation for Linux*
+> * [Windows](windows-cli.md) - *Basic commands and system navigation for Windows*
 
 > [!IMPORTANT]
 > ### TryHackMe & Labs
