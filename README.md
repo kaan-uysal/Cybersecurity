@@ -15,5 +15,5 @@ My hands-on cybersecurity notes, network analysis, and TryHackMe write-ups.
 
 > [!IMPORTANT]
 > ### TryHackMe & Labs
-> * [OpenVPN & Lab Setup](networking/openvpn-setup.md) — *OpenVPN setup guide for THM and HTB modules*
+> * [OpenVPN & Lab Setup](networking/openvpn/openvpn-setup.md) — *OpenVPN setup guide for THM and HTB modules*
 
