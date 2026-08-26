@@ -48,6 +48,8 @@ To bypass typing your credentials manually every time you connect, you can secur
    ```text
    your_username
    your_password
+
+   I usually prefer something recognizable and short such as kaan.
    ```
 3. Restrict file permissions so only the root user can read it:
    ```bash
@@ -61,6 +63,6 @@ To bypass typing your credentials manually every time you connect, you can secur
 Running `sudo openvpn --config client.ovpn` will now authenticate automatically.
 
 > [!IMPORTANT]
-> I personally use Arch Linux with KDE Plasma interface. You can use whatever you want for your cyber security sessions. The selection of distributions have no effect whatsoever with your progress.
+> I personally use Arch Linux with KDE Plasma interface. You can use whatever you want for your cyber security sessions. The selection of distributions have no effect whatsoever with your progress. I can clearly recommend Arch for further administration.
 
 
