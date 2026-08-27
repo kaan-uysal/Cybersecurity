@@ -6,7 +6,7 @@ My hands-on cybersecurity notes, network analysis, and TryHackMe write-ups.
 > [!NOTE]
 > ### Networking
 > * [TCP/IP, ISO/OSI, UDP/TCP](networking/tcp-ip-models.md) — *Protocol layers, subnets, encapsulation and so on.*
-> * [Hydra commands](hydra/hydra-basics.md) — *Common commands of Hydra, basic syntax for THM modules.* 
+> * [Hydra Commands](hydra/hydra-basics.md) — *Common commands of Hydra, basic syntax for THM modules.* 
 
 > [!TIP]
 > ### Linux & Windows CLI
