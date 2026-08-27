@@ -49,7 +49,7 @@ To bypass typing your credentials manually every time you connect, you can secur
    your_username
    your_password
 
-   I usually prefer something recognizable and short such as kaan.
+   I usually prefer something recognizable and short such as 'kaan'.
    ```
 3. Restrict file permissions so only the root user can read it:
    ```bash
