@@ -4,9 +4,10 @@ My hands-on cybersecurity notes, network analysis, and TryHackMe write-ups.
 ## Navigation:
 
 > [!NOTE]
-> ### Networking
-> * [TCP/IP, ISO/OSI, UDP/TCP](networking/tcp-ip-models.md) — *Protocol layers, subnets, encapsulation and so on.*
-> * [Hydra Commands](hydra/hydra-basics.md) — *Common commands of Hydra, basic syntax for modules.* 
+> ### Lab Notes
+> * [TCP/IP, ISO/OSI, UDP/TCP](networking/tcp-ip-models.md) — *Protocol layers, subnets, encapsulation and so on*
+> * [Hydra Commands](hydra/hydra-basics.md) — *Common commands of Hydra, basic syntax for modules*
+> * [SOC scheme](SOC/soc-pillars.md)
 
 > [!TIP]
 > ### Linux & Windows CLI
@@ -14,6 +15,6 @@ My hands-on cybersecurity notes, network analysis, and TryHackMe write-ups.
 > * [Windows](windows-cli.md) - *Basic commands and system navigation for Windows*
 
 > [!IMPORTANT]
-> ### TryHackMe & Labs
+> ### Guides
 > * [OpenVPN & Lab Setup](networking/openvpn/openvpn-setup.md) — *OpenVPN setup guide for THM and HTB modules*
 
