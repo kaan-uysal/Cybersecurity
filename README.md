@@ -12,7 +12,7 @@ My hands-on cybersecurity notes, network analysis, and TryHackMe write-ups.
 > [!TIP]
 > ### Linux & Windows CLI
 > * [Linux](linux-cli.md) — *Basic commands and system navigation for Linux*
-> * [Windows](windows-cli.md) - *Basic commands and system navigation for Windows*
+> * [Windows](windows-cli.md) — *Basic commands and system navigation for Windows*
 
 > [!IMPORTANT]
 > ### Guides
